@@ -4,11 +4,13 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,postgres,sqlite,django,git" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,django,postgres,sqlite,git" />
   </a>
 </p>
 
 <ul>
-  <li><b>languages & framework:</b> Python • C++ • SQL • Django • Git</li>
-  <li><b>databases:</b> SQLite • PostgreSQL</li>
+  <li><b>languages:</b> Python • C++ • SQL</li>
+  <li><b>frameworks:</b> Django</li>
+  <li><b>databases:</b> PostgreSQL • SQLite</li>
+  <li><b>tools:</b> Git</li>
 </ul>
