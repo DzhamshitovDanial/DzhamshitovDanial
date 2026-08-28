@@ -14,4 +14,3 @@
   <li><b>databases:</b> PostgreSQL • SQLite</li>
   <li><b>tools:</b> Git</li>
 </ul>
-![](https://raw.githubusercontent.com/DzhamshitovDanial/DzhamshitovDanial/main/profile-3d-contrib/profile-night-view.svg)
