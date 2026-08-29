@@ -14,4 +14,4 @@
   <li><b>databases:</b> PostgreSQL • SQLite</li>
   <li><b>tools:</b> Git</li>
 </ul>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzhamshitovDanial&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
