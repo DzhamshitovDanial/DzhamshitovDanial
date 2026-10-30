@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=py,django,mysql,sqlite" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 <ul>
   <li><b>languages:</b> Python • C++ • SQL</li>
   <li><b>frameworks:</b> Django</li>
-  <li><b>databases:</b> PostgreSQL • SQLite</li>
+  <li><b>databases:</b> MySQL • SQLite</li>
   <li><b>tools:</b> Git</li>
 </ul>
 
