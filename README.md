@@ -4,7 +4,19 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cpp,django,postgres,sqlite,git" />
+    <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite" />
+  </a>
+</p>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,github" />
   </a>
 </p>
 
